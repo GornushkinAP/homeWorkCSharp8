@@ -1,0 +1,15 @@
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/bin/Debug/net7.0/Task60
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/bin/Debug/net7.0/Task60.deps.json
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/bin/Debug/net7.0/Task60.runtimeconfig.json
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/bin/Debug/net7.0/Task60.dll
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/bin/Debug/net7.0/Task60.pdb
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/Task60.csproj.AssemblyReference.cache
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/Task60.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/Task60.AssemblyInfoInputs.cache
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/Task60.AssemblyInfo.cs
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/Task60.csproj.CoreCompileInputs.cache
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/Task60.dll
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/refint/Task60.dll
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/Task60.pdb
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/Task60.genruntimeconfig.cache
+/run/media/aleksandr/терабайт/GB ЯП/HomeWork_ProgrammingLnggs/homeWorkC#8/Task60/obj/Debug/net7.0/ref/Task60.dll

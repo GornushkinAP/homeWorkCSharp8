@@ -5,3 +5,34 @@
 // 34(1,0,0) 41(1,1,0)
 // 27(0,0,1) 90(0,1,1)
 // 26(1,0,1) 55(1,1,1)
+Console.WriteLine("проба трехмерного массива");
+int[,,] threeDimensionalArray = new int[2, 2, 2];
+int currentNumber = 10; // Начальное значение для двузначных чисел
+
+// Заполнение массива неповторяющимися двузначными числами
+for (int i = 0; i < 2; i++)
+{
+    for (int j = 0; j < 2; j++)
+    {
+        for (int k = 0; k < 2; k++)
+        {
+            threeDimensionalArray[i, j, k] = currentNumber;
+            currentNumber++;
+        }
+    }
+}
+
+// Вывод массива с индексами каждого элемента
+for (int i = 0; i < 2; i++)
+{
+    for (int j = 0; j < 2; j++)
+    {
+        for (int k = 0; k < 2; k++)
+        {
+            Console.WriteLine($"[{i}, {j}, {k}] = {threeDimensionalArray[i, j, k]}");
+        }
+    }
+}
+
+
+
